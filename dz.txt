@@ -9,21 +9,16 @@ CCTV-7国防军事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/
 CCTV-8电视剧,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV-9记录,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 CCTV-10科教,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV-11戏曲,rtp://238.1.78.206:7502
-CCTV-11戏曲标清,rtp://238.1.78.52:6288
-CCTV-12社会与法,rtp://238.1.78.242:7808
-CCTV-12社会与法标清,rtp://238.1.78.53:6296
-CCTV-13新闻,rtp://238.1.79.35:4392
-CCTV-13新闻标清,rtp://238.1.78.45:6232
-CCTV-14少儿,rtp://238.1.78.243:7816
-CCTV-14少儿标清,rtp://238.1.78.54:6304
-CCTV-15音乐,rtp://238.1.78.222:7648
-CCTV-15音乐标清,rtp://238.1.78.47:6248
+CCTV-11戏曲,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV-12社会与法,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV-13新闻,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV-14少儿,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV-15音乐,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 CCTV-16奥林匹克,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV-17农业农村,rtp://238.1.78.178:7296
-CCTV-17农业农村标清,rtp://238.1.78.179:7304
-CCTV-5+体育赛事,rtp://238.1.78.237:7768
-CCTV-4K超高清,rtp://238.1.79.23:4296
+CCTV-16奥林匹克4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-17农业农村,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-5+体育赛事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV-4K超高清,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
 CGTN,rtp://238.1.78.50:6272
 
 卫视频道,#genre#
@@ -210,5 +205,6 @@ CETV-4,rtp://238.1.78.107:6728
 www.wmviv.com,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 列表免费提供,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 禁止滥用商用,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+
 
 
