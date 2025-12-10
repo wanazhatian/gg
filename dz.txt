@@ -1,1 +1,2 @@
-CCTV-1 综合,rtp://238.1.78.166:7200
+CCTV-1 综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+
