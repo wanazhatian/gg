@@ -3,18 +3,12 @@ CCTV-1综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1h
 CCTV-2财经,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV-3综艺,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV-4中文国际,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV-4中文国际标清,rtp://238.1.78.46:6240
-CCTV-5体育,rtp://238.1.78.171:7240
-CCTV-5体育标清,rtp://238.1.78.175:7272
-CCTV-6电影,rtp://238.1.78.172:7248
-CCTV-6电影标清,rtp://238.1.78.176:7280
-CCTV-7国防军事,rtp://238.1.78.239:7784
-CCTV-7国防军事标清,rtp://238.1.78.48:6256
-CCTV-8电视剧,rtp://238.1.78.173:7256
-CCTV-8电视剧标清,rtp://238.1.78.177:7288
-CCTV-9记录,rtp://238.1.78.240:7792
-CCTV-10科教,rtp://238.1.78.241:7800
-CCTV-10科教标清,rtp://238.1.78.51:6280
+CCTV-5体育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV-6电影,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
+CCTV-7国防军事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV-8电视剧,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV-9记录,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV-10科教,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
 CCTV-11戏曲,rtp://238.1.78.206:7502
 CCTV-11戏曲标清,rtp://238.1.78.52:6288
 CCTV-12社会与法,rtp://238.1.78.242:7808
@@ -216,4 +210,5 @@ CETV-4,rtp://238.1.78.107:6728
 www.wmviv.com,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 列表免费提供,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 禁止滥用商用,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+
 
