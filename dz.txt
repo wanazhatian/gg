@@ -1,23 +1,33 @@
 央视频道,#genre#
-CCTV-1综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-2财经,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV-3综艺,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV-4中文国际,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV-5体育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV-6电影,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
-CCTV-7国防军事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV-8电视剧,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV-9记录,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV-10科教,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV-11戏曲,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV-12社会与法,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV-13新闻,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV-14少儿,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV-15音乐,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16奥林匹克,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV-16奥林匹克4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-17农业农村,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV-4K超高清,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV-1 综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV-2 财经,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV-3 综艺,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV-4 中文国际,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV-5 体育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV-6 电影,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
+CCTV-7 国防军事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV-8 电视剧,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV-9 记录,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV-10 科教,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV-11 戏曲,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV-12 社会与法,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV-13 新闻,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV-14 少儿,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV-15 音乐,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV-16 奥林匹克,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV-17 农业农村,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-5+ 体育赛事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV-16 奥林匹克·4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-4K 超高清,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
+CETV-1,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+CETV-2,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cetv2hd4mc/4000000/mnf.m3u8
+CETV-4,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
+CGTN-记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN-法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN-西班牙语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+CGTN-阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+CGTN-俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
@@ -78,115 +88,9 @@ CCTV-4K超高清,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cc
 郎溪新闻,https://ahlive.ahwanyun.cn/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
 欢笑剧场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc8m/8000000/mnf.m3u8
 
-合肥新闻,rtp://238.1.78.111:6760
-滁州新闻综合,rtp://238.1.78.132:6928
-滁州科教,rtp://238.1.78.134:6944
-芜湖新闻综合,rtp://238.1.78.112:6768
-芜湖生活,rtp://238.1.78.80:6512
-湾沚综合,rtp://238.1.78.187:7368
-繁昌新闻综合,rtp://238.1.78.190:7392
-无为综合,rtp://238.1.78.188:7376
-南陵新闻综合,rtp://238.1.78.189:7384
-马鞍山新闻综合,rtp://238.1.79.15:4232
-马鞍山科教生活,rtp://238.1.78.77:6488
-安庆新闻综合,rtp://238.1.78.117:6808
-安庆经济生活,rtp://238.1.78.118:6816
-潜山综合,rtp://238.1.78.192:7408
-桐城综合,rtp://238.1.78.28:6152
-太湖新闻综合,rtp://238.1.79.12:4208
-黄山新闻综合,rtp://238.1.78.130:6912
-黄山文旅,rtp://238.1.78.131:6920
-徽州新闻,rtp://238.1.78.138:6976
-黄山区融媒,rtp://238.1.78.199:7464
-屯溪融媒,rtp://238.1.79.45:4472
-歙县综合,rtp://238.1.78.200:7472
-休宁新闻综合,rtp://238.1.79.20:4272
-祁门综合,rtp://238.1.79.14:4224
-黟县新闻综合,rtp://238.1.78.149:7064
-宣城综合,rtp://238.1.78.142:7008
-宣城文旅生活,rtp://238.1.78.143:7016
-广德新闻综合,rtp://238.1.78.212:7568
-广德生活,rtp://238.1.78.213:7576
-郎溪新闻综合,rtp://238.1.78.214:7584
-旌德综合,rtp://238.1.78.215:7592
-宁国新闻综合,rtp://238.1.78.216:7600
-绩溪新闻,rtp://238.1.78.218:7616
-池州新闻综合,rtp://238.1.78.147:7048
-铜陵新闻综合,rtp://238.1.78.139:6984
-铜陵教育科技,rtp://238.1.78.141:7000
-义安新闻综合,rtp://238.1.78.211:7560
-枞阳电视台,rtp://238.1.78.210:7552
-六安综合,rtp://238.1.78.144:7024
-六安社会生活,rtp://238.1.78.145:7032
-霍山综合,rtp://238.1.78.220:7632
-霍邱新闻综合,rtp://238.1.78.119:6824
-金寨综合,rtp://238.1.79.21:4280
-淮南新闻综合,rtp://238.1.78.113:6776
-淮南民生,rtp://238.1.78.114:6784
-寿县综合,rtp://238.1.78.146:7040
-淮北新闻综合,rtp://238.1.78.135:6952
-淮北经济生活,rtp://238.1.78.136:6960
-濉溪综合,rtp://238.1.78.209:7544
-宿州新闻综合,rtp://238.1.78.121:6840
-宿州科教,rtp://238.1.78.123:6856
-萧县新闻综合,rtp://238.1.79.46:4480
-泗县新闻,rtp://238.1.78.193:7416
-蚌埠新闻,rtp://238.1.78.180:7312
-蚌埠生活,rtp://238.1.78.181:7320
-五河新闻综合,rtp://238.1.79.52:4528
-固镇综合,rtp://238.1.79.47:4488
-阜阳新闻综合,rtp://238.1.78.124:6864
-阜阳生活,rtp://238.1.78.125:6872
-阜阳教育,rtp://238.1.78.126:6880
-阜阳都市文艺,rtp://238.1.78.127:6888
-界首综合,rtp://238.1.78.195:7432
-临泉新闻,rtp://238.1.78.29:6160
-阜南新闻综合,rtp://238.1.79.11:4200
-亳州综合,rtp://238.1.78.128:6896
-亳州农村,rtp://238.1.78.129:6904
-利辛新闻综合,rtp://238.1.78.196:7440
-涡阳新闻综合,rtp://238.1.78.197:7448
-蒙城新闻,rtp://238.1.79.19:4264
 
 数字频道,#genre#
-CCTV-电视指南,rtp://238.1.79.53:4560
-CCTV-兵器科技,rtp://238.1.79.56:4584
-CCTV-第一剧场,rtp://238.1.79.63:4640
-CCTV-风云剧场,rtp://238.1.79.62:4632
-CCTV-风云音乐,rtp://238.1.79.64:4648
-CCTV-风云足球,rtp://238.1.79.57:4592
-CCTV-高尔夫·网球,rtp://238.1.79.58:4600
-CCTV-怀旧剧场,rtp://238.1.79.61:4624
-CCTV-女性时尚,rtp://238.1.79.55:4576
-CCTV-世界地理,rtp://238.1.79.60:4616
-CCTV-央视台球,rtp://238.1.79.59:4608
-CCTV-央视文化精品,rtp://238.1.79.54:4568
-CHC·影迷电影,rtp://238.1.79.17:4248
-CHC·动作电影,rtp://238.1.79.18:4256
-CHC·家庭影院,rtp://238.1.79.22:4288
-都市剧场,rtp://238.1.78.74:6464
-乐游,rtp://238.1.78.151:7080
-动漫秀场,rtp://238.1.78.154:7104
-金鹰纪实,rtp://238.1.79.9:4184
-茶频道,rtp://238.1.79.30:4352
-快乐垂钓,rtp://238.1.79.31:4360
-生活时尚,rtp://238.1.78.155:7112
-财富天下,rtp://238.1.78.25:6128
-东方财经浦东,rtp://238.1.78.73:6456
-金色学堂,rtp://238.1.78.76:6480
-游戏风云,rtp://238.1.78.81:6520
-法治天地,rtp://238.1.78.84:6544
-梨园,rtp://238.1.79.10:4192
-文物宝库,rtp://238.1.79.16:4240
-武术世界,rtp://238.1.79.8:4176
 
-未分类,#genre#
-CETV-1,rtp://238.1.78.158:7136
-CETV-2,rtp://238.1.78.106:6720
-CETV-4,rtp://238.1.78.107:6728
-卡酷少儿,rtp://238.1.78.97:6648
-哈哈炫动,rtp://238.1.78.82:6528
-金鹰卡通,rtp://238.1.78.100:6672
 
 
 
