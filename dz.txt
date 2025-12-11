@@ -17,57 +17,13 @@ CCTV-15音乐,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1
 CCTV-16奥林匹克,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV-16奥林匹克4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV-17农业农村,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV-5+体育赛事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 CCTV-4K超高清,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
-CGTN,rtp://238.1.78.50:6272
 
 卫视频道,#genre#
-安徽卫视,rtp://238.1.79.27:4328
-安徽卫视,rtp://238.1.78.150:7072
-安徽卫视,rtp://238.1.78.137:6968
-安徽卫视,rtp://238.1.78.42:6208
-北京卫视,rtp://238.1.78.162:7168
-北京卫视,rtp://238.1.78.63:6376
-北京卫视·4K,rtp://238.1.79.24:4304
-东方卫视,rtp://238.1.78.163:7176
-东南卫视,rtp://238.1.78.22:6104
-甘肃卫视,rtp://238.1.79.36:4400
-广东卫视·4K,rtp://238.1.79.25:4312
-广东卫视,rtp://238.1.78.161:7160
-深圳卫视·4K,rtp://238.1.79.26:4320
-深圳卫视,rtp://238.1.78.156:7120
-广西卫视,rtp://238.1.78.70:6432
-贵州卫视,rtp://238.1.78.244:7824
-海南卫视,rtp://238.1.79.49:4504
-河北卫视,rtp://238.1.78.245:7832
-河南卫视,rtp://238.1.79.65:4632
-黑龙江卫视,rtp://238.1.78.159:7144
-湖北卫视,rtp://238.1.78.168:7216
-湖南卫视,rtp://238.1.78.160:7152
-吉林卫视,rtp://238.1.79.48:4496
-江苏卫视,rtp://238.1.78.165:7192
-江西卫视,rtp://238.1.78.26:6136
-辽宁卫视,rtp://238.1.78.21:6096
-内蒙古卫视,rtp://238.1.78.103:6696
-宁夏卫视·HD,rtp://238.1.79.4:4144
-宁夏卫视,rtp://238.1.78.109:6744
-青海卫视,rtp://238.1.78.102:6688
-三沙卫视,rtp://238.1.78.27:6144
-厦门卫视,rtp://238.1.78.246:7840
-山东卫视,rtp://238.1.78.169:7224
-山西卫视,rtp://238.1.78.95:6632
-陕西卫视,rtp://238.1.78.88:6576
-四川卫视,rtp://238.1.78.30:6168
-天津卫视,rtp://238.1.78.20:6088
-西藏卫视·HD,rtp://238.1.79.1:4120
-西藏卫视,rtp://238.1.78.101:6680
-新疆卫视·HD,rtp://238.1.79.2:4128
-新疆卫视,rtp://238.1.78.110:6752
-兵团卫视·HD,rtp://238.1.79.3:4136
-兵团卫视,rtp://238.1.78.104:6704
-云南卫视,rtp://238.1.78.89:6584
-浙江卫视,rtp://238.1.78.164:7184
-重庆卫视,rtp://238.1.78.31:6176
+安徽卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
+东方卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
+
+
 
 安徽频道,#genre#
 安徽卫视,rtp://238.1.79.27:4328
@@ -196,15 +152,7 @@ CETV-4,rtp://238.1.78.107:6728
 哈哈炫动,rtp://238.1.78.82:6528
 金鹰卡通,rtp://238.1.78.100:6672
 
-使用提示,#genre#
-列表更新时间,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-2025-12-08,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-如有抓源能力,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-欢迎共建共享,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-本站固定网址,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-www.wmviv.com,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-列表免费提供,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-禁止滥用商用,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+
 
 
 
