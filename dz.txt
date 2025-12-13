@@ -1,142 +1,418 @@
-央视频道,#genre#
-CCTV-1 综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-2 财经,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV-3 综艺,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV-4 中文国际,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV-5 体育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV-6 电影,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
-CCTV-7 国防军事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV-8 电视剧,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV-9 记录,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV-10 科教,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV-11 戏曲,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV-12 社会与法,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV-13 新闻,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV-14 少儿,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV-15 音乐,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16 奥林匹克,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV-17 农业农村,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV-5+ 体育赛事,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV-16 奥林匹克·4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-4K 超高清,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
-CETV-1,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-CETV-2,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cetv2hd4mc/4000000/mnf.m3u8
-CETV-4,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-CGTN,https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
-CGTN-记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN-法语,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN-西班牙语,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CGTN-阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN-俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek={start|yyyyMMddHHmmss}-{end|yyyyMMddHHmmss}"
 
-卫视频道,#genre#
-安徽卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
-东方卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
-江苏卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jswshd8m/8000000/mnf.m3u8
-浙江卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zjwshd8m/8000000/mnf.m3u8
-北京卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bjwshd8m/8000000/mnf.m3u8
-天津卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/tjwshd8m/8000000/mnf.m3u8
-河北卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hbwshd8m/8000000/mnf.m3u8
-山西卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shanxiwssd4m/4000000/mnf.m3u8
-内蒙古卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/nmgws2d5m/2500000/mnf.m3u8
-辽宁卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/lnwshd8m/8000000/mnf.m3u8
-吉林卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jlwshd8m/8000000/mnf.m3u8
-黑龙江卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hljwshd8m/8000000/mnf.m3u8
-东南卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dnwshd8m/8000000/mnf.m3u8
-海峡卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxwshd4m/4000000/mnf.m3u8
-厦门卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xmws/1300000/mnf.m3u8
-江西卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jxws8m/8000000/mnf.m3u8
-山东卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sdws8m/8000000/mnf.m3u8
-河南卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hnwshd8m/8000000/mnf.m3u8
-湖北卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hubeiws8m/8000000/mnf.m3u8
-湖南卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-广东卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/szwshd8m/8000000/mnf.m3u8
-广西卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gxwshd8m/8000000/mnf.m3u8
-海南卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-三沙卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sswshd8m/8000000/mnf.m3u8
-重庆卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cqws8m/8000000/mnf.m3u8
-四川卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/scwshd/8000000/mnf.m3u8
-贵州卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gzwshd8m/8000000/mnf.m3u8
-云南卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ynwshd8m/8000000/mnf.m3u8
-西藏卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xzws/2500000/mnf.m3u8
-陕西卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sxwssd4m/4000000/mnf.m3u8
-甘肃卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gswshd8m/8000000/mnf.m3u8
-青海卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qhwssd4m/4000000/mnf.m3u8
-安多卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/adws2d5m/2500000/mnf.m3u8
-宁夏卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/nxwssd4m/4000000/mnf.m3u8
-新疆卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xjwssd4m/4000000/mnf.m3u8
-兵团卫视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/btwssd4m/4000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1综合
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 
-安徽频道,#genre#
-安徽经济生活,https://ahlive.ahwanyun.cn/live/5c6207583a334b048f77dddf370bd840/hls.m3u8
-安徽影视,https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
-安徽综艺·体育,https://ahlive.ahwanyun.cn/live/7f908bf821d04f66b765af65e49196eb/hls.m3u8
-肥东新闻综合,https://31699.hlsplay.aodianyun.com/tv_radio_31699/tv_channel_3780.m3u8?auth_key=3318562388-0-0-8ebbb954451edcaa4ab7f7e8f6b9f8c4&extra_key=c5aQD7PkoWQlLE2jcGdAMBsfaGdu6JPhyy8U7SviAcVIR3XolBzY26365erxKIjk_nKavWnFWH3aDX4wtTEeC_j5v6LpKXXgmTQm6JZuCVfkfQwc6Tl4ia4nCbb85h94l5UNgfI2WIts-xNjcKahTX68n8xmIFFcN6al1dK28Lo
-肥东经济生活,https://gnhls.qingmei.tv/live/jjsh.m3u8?volcTime=1779268507&volcSecret=b5e589b9092313312bcc97f178b3402c#https://gnhls.qingmei.tv/live/jjsh.m3u8?volcTime=1774408589&volcSecret=4938d82045551d670c9d796c4ec39bc4
-淮南新闻,http://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
-马鞍山新闻综合,http://live.masbcx.cn/37da93f77452420d8990a9e91d865b81/94a165a5a7104676b7c68e39b4917d20.m3u8?auth_key=2334657789-9dd6b0079eb842f3a29bba1254dfedc3-0-2175f4b991c6e69d890d998237654a14
-马鞍山科教生活,http://live.masbcx.cn/fe60c7f6a746404590186208394ceb43/935bce782af148c18a8048eabb0d7afa.m3u8?auth_key=2334657804-859d6a4ae6094480b20ff635612cd14d-0-8151ea4280c5f6a71fad438456ffa6df
-池州新闻综合,http://gbds.chiznews.com:8037/live/xwzh.m3u8
-太湖新闻综合,http://ahlive.ahwanyun.cn/live/cd47e028615f4bd29098cdc78126e524/hls.m3u8
-广德生活,http://live.gdtv.ah.cn/live/shenghuoTV.m3u8 
-广德新闻综合,http://live.gdtv.ah.cn/live/newsTV.m3u8
-岳西新闻综合,http://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
-歙县综合,https://ahlive.ahwanyun.cn/live/09c5ad9fdb8a44fbaf152b03f8402589/hls.m3u8
-无为综合,https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
-颖上新闻综合,https://ahlive.ahwanyun.cn/live/de47e449e994449fa34ed8aa4638ec30/hls.m3u8
-郎溪新闻,https://ahlive.ahwanyun.cn/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
-欢笑剧场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2财经
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 
-数字频道,#genre#
-欢笑剧场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc8m/8000000/mnf.m3u8
-欢笑剧场·4K,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
-快乐垂钓,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyjs8m/8000000/mnf.m3u8
-茶频道,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-东方影视,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-乐游,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
-财富天下,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cftxhd4mc/4000000/mnf.m3u8
-第一财经,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dycjhd8m/8000000/mnf.m3u8
-东方财经,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-动漫秀场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dmxc8m/8000000/mnf.m3u8
-都市剧场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dsjc8m/8000000/mnf.m3u8
-法治天地,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fztd8m/8000000/mnf.m3u8
-家庭理财,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jtlcsd2d5mc/2500000/mnf.m3u8
-健康养生,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jkys8m/8000000/mnf.m3u8
-金色学堂,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jingsepd8m/8000000/mnf.m3u8
-生活时尚,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shss8m/8000000/mnf.m3u8
-游戏风云,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/yxfy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3综艺
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
 
-其他频道,#genre#
-上海新闻综合,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dshd8m/8000000/mnf.m3u8
-上海教育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/setvhd/8000000/mnf.m3u8
-福建经济,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjjjshhd4m/4000000/mnf.m3u8
-福建旅游,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjlyhd4m/4000000/mnf.m3u8
-福建教育,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjjypdhd4m/4000000/mnf.m3u8
-福建少儿,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjsehd4m/4000000/mnf.m3u8
-福建文体,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjtyhd4m/4000000/mnf.m3u8
-福建乡村振兴公共频道,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjgghd4m/4000000/mnf.m3u8
-中国天气,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgqxhd4mc/4000000/mnf.m3u8
-卡酷少儿,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
-金鹰卡通,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyktsd4m/4000000/mnf.m3u8
-嘉佳卡通,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jjkt2d5m/2500000/mnf.m3u8
-哈哈炫动,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hhxd8m/8000000/mnf.m3u8
-北京纪实科教,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4中文国际
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
 
-百事通,#genre#
-百变课堂,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbkt8m/8000000/mnf.m3u8
-宝宝动画,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbdh8m/8000000/mnf.m3u8
-电竞天堂,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/djtt8m/8000000/mnf.m3u8
-谍战剧场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dzjc8m/8000000/mnf.m3u8
-华语影院,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hyyy8m/8000000/mnf.m3u8
-看天下精选,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ktxjx8m/8000000/mnf.m3u8
-青春动漫,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qcdm8m/8000000/mnf.m3u8
-全球大片,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmjc8m/8000000/mnf.m3u8
-热门综艺,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmzy8m/8000000/mnf.m3u8
-戏曲精选,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xqjx8m/8000000/mnf.m3u8
-星光影院,http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5体育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
 
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6电影
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7国防军事
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8电视剧
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV-9记录
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10科教
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11戏剧
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12社会与法
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13新闻
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14少儿
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15音乐
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农业农村
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+体育赛事
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV-4K超高清
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克·4K
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视频道",CETV-1
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="" group-title="央视频道",CETV-2
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cetv2hd4mc/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视频道",CETV-4
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="央视频道",CGTN
+https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Arabic" tvg-logo="" group-title="央视频道",CGTN 阿语
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="" group-title="央视频道",CGTN 纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Spanish" tvg-logo="" group-title="央视频道",CGTN 西语
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN French" tvg-logo="" group-title="央视频道",CGTN 法语
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Russian" tvg-logo="" group-title="央视频道",CGTN 俄语
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视频道",安徽卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视频道",东方卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视频道",江苏卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jswshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视频道",浙江卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zjwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bjwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视频道",天津卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/tjwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视频道",河北卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hbwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="" group-title="卫视频道",山西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shanxiwssd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视频道",内蒙古卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/nmgws2d5m/2500000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视频道",辽宁卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/lnwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视频道",吉林卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jlwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视频道",黑龙江卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hljwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视频道",东南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dnwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视频道",海峡卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxwshd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="" group-title="卫视频道",厦门卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xmws/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视频道",江西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jxws8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视频道",山东卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sdws8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视频道",河南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hnwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视频道",湖北卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hubeiws8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视频道",广东卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gdwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视频道",深圳卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/szwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视频道",广西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gxwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视频道",海南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="" group-title="卫视频道",三沙卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sswshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视频道",重庆卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cqws8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视频道",四川卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/scwshd/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视频道",贵州卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gzwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视频道",云南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ynwshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="" group-title="卫视频道",西藏卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xzws/2500000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="" group-title="卫视频道",陕西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sxwssd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gswshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="" group-title="卫视频道",青海卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qhwssd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="" group-title="卫视频道",安多卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/adws2d5m/2500000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="" group-title="卫视频道",宁夏卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/nxwssd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="" group-title="卫视频道",新疆卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xjwssd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="" group-title="卫视频道",兵团卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/btwssd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="" group-title="安徽频道",安徽经济生活
+https://ahlive.ahwanyun.cn/live/5c6207583a334b048f77dddf370bd840/hls.m3u8
+
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="" group-title="安徽频道",安徽影视
+https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
+
+#EXTINF:-1 tvg-name="安徽综艺·体育" tvg-logo="" group-title="安徽频道",安徽综艺·体育
+https://ahlive.ahwanyun.cn/live/7f908bf821d04f66b765af65e49196eb/hls.m3u8
+
+#EXTINF:-1 tvg-name="淮南新闻" tvg-logo="" group-title="安徽频道",淮南新闻
+http://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
+
+#EXTINF:-1 tvg-name="马鞍山新闻综合" tvg-logo="" group-title="安徽频道",马鞍山新闻综合
+http://live.masbcx.cn/37da93f77452420d8990a9e91d865b81/94a165a5a7104676b7c68e39b4917d20.m3u8?auth_key=2334657789-9dd6b0079eb842f3a29bba1254dfedc3-0-2175f4b991c6e69d890d998237654a14
+
+#EXTINF:-1 tvg-name="马鞍山科教生活" tvg-logo="" group-title="安徽频道",马鞍山科教生活
+http://live.masbcx.cn/fe60c7f6a746404590186208394ceb43/935bce782af148c18a8048eabb0d7afa.m3u8?auth_key=2334657804-859d6a4ae6094480b20ff635612cd14d-0-8151ea4280c5f6a71fad438456ffa6df
+
+#EXTINF:-1 tvg-name="池州新闻综合" tvg-logo="" group-title="安徽频道",池州新闻综合
+http://gbds.chiznews.com:8037/live/xwzh.m3u8
+
+#EXTINF:-1 tvg-name="太湖新闻综合" tvg-logo="" group-title="安徽频道",太湖新闻综合
+http://ahlive.ahwanyun.cn/live/cd47e028615f4bd29098cdc78126e524/hls.m3u8
+
+#EXTINF:-1 tvg-name="广德生活" tvg-logo="" group-title="安徽频道",广德生活
+http://live.gdtv.ah.cn/live/shenghuoTV.m3u8
+
+#EXTINF:-1 tvg-name="广德新闻综合" tvg-logo="" group-title="安徽频道",广德新闻综合
+http://live.gdtv.ah.cn/live/newsTV.m3u8
+
+#EXTINF:-1 tvg-name="岳西新闻综合" tvg-logo="" group-title="安徽频道",岳西新闻综合
+http://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
+
+#EXTINF:-1 tvg-name="歙县综合" tvg-logo="" group-title="安徽频道",歙县综合
+https://ahlive.ahwanyun.cn/live/09c5ad9fdb8a44fbaf152b03f8402589/hls.m3u8
+
+#EXTINF:-1 tvg-name="无为综合" tvg-logo="" group-title="安徽频道",无为综合
+https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
+
+#EXTINF:-1 tvg-name="颖上新闻综合" tvg-logo="" group-title="安徽频道",颖上新闻综合
+https://ahlive.ahwanyun.cn/live/de47e449e994449fa34ed8aa4638ec30/hls.m3u8
+
+#EXTINF:-1 tvg-name="郎溪新闻" tvg-logo="" group-title="安徽频道",郎溪新闻
+https://ahlive.ahwanyun.cn/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
+
+#EXTINF:-1 tvg-name="泾县新闻综合" tvg-logo="https://bkimg.cdn.bcebos.com/pic/c2fdfc039245d688d43f685a628e6a1ed21b0ff48eb2" group-title="安徽频道",泾县新闻综合
+http://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
+
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="" group-title="上海频道",上海新闻综合
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="" group-title="上海频道",上海都市
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="" group-title="上海频道",上海教育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/setvhd/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江经济生活.png" group-title="浙江频道",浙江经视
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江教科影视.png" group-title="浙江频道",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江之江纪录" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/之江纪录.png" group-title="浙江频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江国际.png" group-title="浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/钱江都市.png" group-title="浙江频道",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="" group-title="福建频道",福建经济
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjjjshhd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="" group-title="福建频道",福建旅游
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjlyhd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="福建教育" tvg-logo="" group-title="福建频道",福建教育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjjypdhd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="" group-title="福建频道",福建少儿
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjsehd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="" group-title="福建频道",福建文体
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjtyhd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="福建乡村振兴公共频道" tvg-logo="" group-title="福建频道",福建乡村振兴公共频道
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjgghd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字频道",欢笑剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字频道",欢笑剧场·4K
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字频道",快乐垂钓
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/klcd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="数字频道",金鹰纪实
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyjs8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字频道",茶频道
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="数字频道",东方影视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfyshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字频道",五星体育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="乐游" tvg-logo="" group-title="数字频道",乐游
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="" group-title="数字频道",财富天下
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cftxhd4mc/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="" group-title="数字频道",第一财经
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dycjhd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="" group-title="数字频道",东方财经
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="" group-title="数字频道",动漫秀场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dmxc8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="" group-title="数字频道",都市剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dsjc8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="" group-title="数字频道",法治天地
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fztd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="" group-title="数字频道",家庭理财
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jtlcsd2d5mc/2500000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="健康养生" tvg-logo="" group-title="数字频道",健康养生
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jkys8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="" group-title="数字频道",金色学堂
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jingsepd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="" group-title="数字频道",生活时尚
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shss8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="" group-title="数字频道",游戏风云
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/yxfy8m/8000000/mnf.m3u8
+
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://gitee.com/iouair/tv-station-logo/raw/master/凤凰卫视资讯台.png",凤凰卫视资讯台
+https://cdn6.101.qzz.io/163189/fhzx
+
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://gitee.com/iouair/tv-station-logo/raw/master/凤凰卫视中文台.png",凤凰卫视中文台
+https://cdn6.101.qzz.io/163189/fhzw
+
+#EXTINF:-1 group-title="其他频道" tvg-logo="https://gitee.com/iouair/tv-station-logo/raw/master/凤凰卫视香港台.png",凤凰卫视香港台
+https://cdn6.101.qzz.io/163189/fhhk
+
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="" group-title="其他频道",中国天气
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgqxhd4mc/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="其他频道",卡酷少儿
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="" group-title="其他频道",金鹰卡通
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyktsd4m/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="" group-title="其他频道",嘉佳卡通
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jjkt2d5m/2500000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="其他频道",哈哈炫动
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hhxd8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="" group-title="其他频道",北京纪实科教
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dajs8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="百变课堂" tvg-logo="" group-title="百视通",百变课堂
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbkt8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="宝宝动画" tvg-logo="" group-title="百视通",宝宝动画
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbdh8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="电竞天堂" tvg-logo="" group-title="百视通",电竞天堂
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/djtt8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="" group-title="百视通",谍战剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dzjc8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="华语影院" tvg-logo="" group-title="百视通",华语影院
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hyyy8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="看天下精选" tvg-logo="" group-title="百视通",看天下精选
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ktxjx8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="青春动漫" tvg-logo="" group-title="百视通",青春动漫
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qcdm8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="全球大片" tvg-logo="" group-title="百视通",全球大片
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qqdp8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="热门剧场" tvg-logo="" group-title="百视通",热门剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmjc8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="热门综艺" tvg-logo="" group-title="百视通",热门综艺
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmzy8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="戏曲精选" tvg-logo="" group-title="百视通",戏曲精选
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xqjx8m/8000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="星光影院" tvg-logo="" group-title="百视通",星光影院
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xgyy8m/8000000/mnf.m3u8
